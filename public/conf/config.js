@@ -29,7 +29,7 @@ window.config = {
       text: 'ACL4SSR Online Full',
     },
     {
-      value: './test.ini',
+      value: 'https://raw.githubusercontent.com/Jadramcool/clash/main/public/conf/test.ini',
       text: 'test',
     },
   ],
